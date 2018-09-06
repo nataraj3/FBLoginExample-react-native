@@ -1,0 +1,4 @@
+#Mon Sep 03 16:57:32 IST 2018
+base.0=D\:\\react\\sandbox\\FBLoginExample\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
+path.0=classes.dex
+renamed.0=classes.dex
